@@ -10,3 +10,6 @@ Below you can find a Colab notebook containing documented implementation of this
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/GabrielSamberg/Tensor_Regression_Networks_review/blob/main/Tensor_Regression_Networks.ipynb
 )
+
+![Alt text](./Tensor%20Networks%20experiment%20reproduction.png)
+
