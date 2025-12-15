@@ -7,9 +7,6 @@ Here is a [detailed pdf](./Tensor_Regression_Networks_paper_review-2.pdf) descri
 
 Below you can find a Colab notebook containing documented implementation of this review.
 
-[mathematical approach to this problem and derive in detail the calculations omitted from the paper](./Free_Water_Elimination_and_Mapping_from_Diffusion_MRI-4.pdf).
-
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/GabrielSamberg/Tensor_Regression_Networks_review/blob/main/Tensor_Regression_Networks.ipynb
 )
